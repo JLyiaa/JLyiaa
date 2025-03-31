@@ -1,16 +1,33 @@
-## Hi there 👋
+## ✨ Oi, eu sou a Jullya
 
-<!--
-**JLyiaa/JLyiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌸 Bem-vindo ao meu cantinho mágico no GitHub! 🌸
 
-Here are some ideas to get you started:
+Aqui você encontra meus projetos, bagunça organizada e um pouquinho do meu caos programático. 💻✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌷 Sobre mim:
+💖 Apaixonada por tecnologia e histórias fantásticas  
+🐱 Dev & storyteller nas horas vagas  
+🖤 Viciada em café e aprender coisas novas  
+🚀 Explorando mundos entre código e imaginação  
+
+---
+
+### 💡 O que estou criando?
+🕹️ **Um Quiz Game com Ranking** para testar seu conhecimento  
+💰 **Uma API de Conversão de Moedas**, porque dinheiro precisa ser compreendido  
+
+---
+
+### 🚀 Tecnologias que amo:
+🐍 **Back-end:** Python | Flask    
+
+---
+
+### 📫 Onde me encontrar?
+💌 Me chama aqui no GitHub mesmo!  
+🐦 [jullya.g.honorio@gmail.com]  
+
+🌟 Obrigada por passar por aqui! Se curtir, deixa uma ⭐ nos repositórios! 🌟
+
