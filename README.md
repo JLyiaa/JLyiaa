@@ -8,8 +8,7 @@ Aqui você encontra meus projetos, bagunça organizada e um pouquinho do meu cao
 
 ### 🌷 Sobre mim:
 💖 Apaixonada por tecnologia e histórias fantásticas  
-🐱 Dev & storyteller nas horas vagas  
-🖤 Viciada em café e aprender coisas novas  
+🐱 Dev & storyteller nas horas vagas   
 🚀 Explorando mundos entre código e imaginação  
 
 ---
