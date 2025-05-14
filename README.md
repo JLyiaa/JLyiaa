@@ -14,9 +14,8 @@ Aqui você encontra meus projetos, bagunça organizada e um pouquinho do meu cao
 ---
 
 ### 💡 O que estou criando?
-🕹️ **Um Quiz Game com Ranking** para testar seu conhecimento  
-💰 **Uma API de Conversão de Moedas**, porque dinheiro precisa ser compreendido  
-
+  ** umsistema de cadastro**
+  ** uma lista de tarefas**
 ---
 
 ### 🚀 Tecnologias que amo:
