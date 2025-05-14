@@ -14,8 +14,8 @@ Aqui você encontra meus projetos, bagunça organizada e um pouquinho do meu cao
 ---
 
 ### 💡 O que estou criando?
-   um sistema de cadastro
-   uma lista de tarefas
+   um sistema de cadastro     
+   uma lista de tarefas    
 ---
 
 ### 🚀 Tecnologias que amo:
